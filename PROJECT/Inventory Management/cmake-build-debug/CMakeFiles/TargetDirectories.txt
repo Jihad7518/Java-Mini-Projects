@@ -1,3 +1,0 @@
-/Users/habib/CLionProjects/Inventory Management/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/habib/CLionProjects/Inventory Management/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/habib/CLionProjects/Inventory Management/cmake-build-debug/CMakeFiles/Inventory_Management.dir
